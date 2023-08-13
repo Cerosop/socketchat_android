@@ -49,3 +49,4 @@ public class MainActivity extends AppCompatActivity {
         name_t = (EditText) findViewById(R.id.name_t);
     }
 }
+//test
