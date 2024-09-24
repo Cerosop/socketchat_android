@@ -9,5 +9,12 @@ Android Studio、Java、socket
 client端ip輸入10.0.2.2，port輸入6100
 
 ### 執行結果
-demo: https://www.youtube.com/watch?v=HIsIUpvIDZ8
-![螢幕擷取畫面 2024-09-23 041826](https://github.com/user-attachments/assets/0c1fa169-38a1-4c57-aa26-913caeb1a827)
+#### 伺服器連接<br>
+<img src="https://github.com/user-attachments/assets/c0a98a57-c7df-4c1f-87c3-94da2e0e0efd" width="800" /><br>
+#### 多人聊天室<br>
+<img src="https://github.com/user-attachments/assets/5bf9a392-add1-4c8e-a544-180c2d75d58d" width="800" /><br>
+#### client離開<br>
+<img src="https://github.com/user-attachments/assets/a1181ae3-3d0d-4333-96c6-ac9c69a8c3bb" width="800" /><br>
+#### server離開<br>
+<img src="https://github.com/user-attachments/assets/75e5fe7d-0de1-4368-94f5-00a0a5d39b03" width="800" /><br>
+
